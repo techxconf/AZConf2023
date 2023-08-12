@@ -2,7 +2,7 @@
 
 We invite you to become a community partner of  AZConf 2023, Asia's largest Multi Cloud Conference with a special focus on AI services, taking place on October 13 - 14, 2023.
 
-## About KCD Chennai 2023 Event
+## About AZConf 2023 Event
 
 AZConf is Asia's Largest Multi-Cloud(Focused AI) technology event which brings together everyone in the dev/IT landscape, world-leading speakers, industry leaders, large customers, partners, and thousands of delegates and offers an in-depth technology learning and ideal professional networking environment for all attendees. The AzConf offers cutting-edge technology content, in both business and technology arenas, and as such represents a perfect learning and professional opportunity. 
 
