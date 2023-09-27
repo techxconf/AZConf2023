@@ -1,12 +1,13 @@
 ## Introduction
 
-We invite you to become a community partner of  AZConf 2023, Asia's largest Multi Cloud Conference with a special focus on AI services, taking place on October 13 - 14, 2023.
+We invite you to become a community partner of  AZConf, Asia's Largest Cloud & AI Conference 2023 with a special focus on AI services, taking place on November 17 - 18, 2023 at IIT Madras Research Park, Chennai.
 
 ## About AZConf 2023 Event
 
-AZConf is Asia's Largest Multi-Cloud(Focused AI) technology event which brings together everyone in the dev/IT landscape, world-leading speakers, industry leaders, large customers, partners, and thousands of delegates and offers an in-depth technology learning and ideal professional networking environment for all attendees. The AzConf offers cutting-edge technology content, in both business and technology arenas, and as such represents a perfect learning and professional opportunity. 
+AZConf is  Asia's Largest Cloud & AI Conference 2023 technology event which brings together everyone in the dev/IT landscape, world-leading speakers, industry leaders, large customers, partners, and thousands of delegates and offers an in-depth technology learning and ideal professional networking environment for all attendees. The AzConf offers cutting-edge technology content, in both business and technology arenas, and as such represents a perfect learning and professional opportunity. 
 
-Across the two-day of immersive technology learning, attendees will get to learn from hundreds of educational sessions, dozens of real-life case studies, and panel discussions, delivered by 100+ world-class experts from across the world.
+Across the two days of immersive technology learning, attendees will get to learn from hundreds of educational sessions, dozens of real-life case studies, and panel discussions, delivered by 60+ world-class experts from across the world.
+
 For more details, visit our website https://azconf.dev
 
 ## Benefits of Becoming a Community Partner
@@ -18,11 +19,11 @@ For more details, visit our website https://azconf.dev
 ## Community Partner Responsibilities
 
 **Mandatory:**
-- Promote the event on your community's website, social media handles and other marketing materials.
+- Promote the event on your community's website, social media handles, and other marketing materials.
 - Promote the event through your network and contacts.
-- Promote the event in your meetups, webinars etc.
-- Min. 2 posts from your social media handles (Twitter and LinkedIn). Content of the posts will be shared by AZConf Team.
-- Min. 2 emails to your community members. Content of the email will be shared by AZConf Team.
+- Promote the event in your meetups, webinars, etc.
+- Min. 2 posts from your social media handles (Twitter and LinkedIn). The content of the posts will be shared by the AZConf Team.
+- Min. 2 emails to your community members. The content of the email will be shared by the AZConf Team.
 - Sell tickets to your community members.
 
 **Optional:**
@@ -34,7 +35,7 @@ For more details, visit our website https://azconf.dev
 - Provide post-event feedback and insights to the Event organizers to improve future events.
 
 ## Your entitlements
-- Get to promote your community during AZConf 2023 event.
+- Get to promote your community during the AZConf 2023 event.
   - Your community logo on the event website
   - Community partner announcement from AZConf Chennai social media handles (Twitter, LinkedIn & Meta)
 ## Process for Onboarding
